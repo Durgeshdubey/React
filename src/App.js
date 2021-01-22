@@ -11,7 +11,7 @@ function App(){
 //    setCount(count+1);
 //    setRed(!isRed)
   const [users, setUser] = useState([
-    {name:"GOku", message:"hello this is goku", likes:45},
+    {name:"GOku", message:"hello this is D-D", likes:45},
     {name:"Gohan", message: "piccolo is my dad", likes:45},
     {name:"Vegeta", message:"Clownnnnnnn", likes:45}
   ])
